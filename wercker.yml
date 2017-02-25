@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build:
         version: "0.16"
-        theme: agency
+        theme: hugo-agency-theme
         config: config.toml
         flags: --disableSitemap=true
     - script:
