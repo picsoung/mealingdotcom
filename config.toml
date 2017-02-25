@@ -5,7 +5,7 @@ title = "Mealing"
 theme = "hugo-agency-theme"
 
 # Github pages
-publishDir= "docs"
+# publishDir= "docs"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -20,7 +20,7 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
+  name = "Mealing"
   description = "Your description"
 
   # Link custom assets relative to /static
