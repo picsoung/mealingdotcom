@@ -1,7 +1,7 @@
 box: golang:latest
 build:
   steps:
-    - shuenhoy/hugo-build@0.1.4:
+    - arjen/hugo-build:
         version: "HEAD"
         theme: hugo-agency-theme
         config: config.toml
