@@ -1,7 +1,7 @@
 box: debian
 build:
   steps:
-    - arjen/hugo-build:
+    - shuenhoy/hugo-build@0.1.4:
         version: "HEAD"
         theme: hugo-agency-theme
         config: config.toml
