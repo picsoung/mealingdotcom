@@ -2,7 +2,7 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: "0.17"
+        version: "HEAD"
         theme: hugo-agency-theme
         config: config.toml
         flags: --disableSitemap=true
